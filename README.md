@@ -62,6 +62,5 @@ These programs help me balance both the **technical** and **strategic** sides of
 
 ---
 
-### ⭐ Fun Thought  
-Technology keeps evolving — and so do I.  
-Every project, every script, and every investigation is one step toward becoming a stronger cybersecurity professional.
+### ⭐ Professional Statement 
+I am committed to developing a career in cybersecurity with a focus on delivering secure, reliable, and well-governed technology environments. My aim is to contribute to organisations by combining technical capability with strategic thinking and continuous learning.
