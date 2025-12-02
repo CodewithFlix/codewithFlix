@@ -8,71 +8,52 @@ I like solving problems, breaking things down logically, and creating practical 
 
 ---
 
-## 🛡️ Cybersecurity Skills & Tools  
-
-### **Network & Threat Analysis**
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Packet Analysis](https://img.shields.io/badge/Packet%20Analysis-292929?style=for-the-badge)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge)
-
-### **Security Frameworks**
-![NIST CSF](https://img.shields.io/badge/NIST%20CSF-0A0A0A?style=for-the-badge)
-![ACSC Essential Eight](https://img.shields.io/badge/ACSC%20Essential%208-212121?style=for-the-badge)
-
-### **Programming & Automation**
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=yellow)
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-000000?style=for-the-badge&logo=jupyter&logoColor=F37626)
-
-### **Cloud & Monitoring**
-![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-000000?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Security](https://img.shields.io/badge/Azure_Security-003366?style=for-the-badge&logo=microsoftazure&logoColor=white)
+## 🔐 Core Competencies  
+- Network traffic inspection & anomaly identification  
+- Packet analysis using Wireshark  
+- Python scripting for automation and data handling  
+- Cloud monitoring with Azure tools  
+- Application of cybersecurity frameworks (NIST CSF, ACSC Essential Eight)  
+- Problem-solving with a risk-based and business-driven mindset  
 
 ---
 
-## 🎓 Certifications (Completed & In Progress)
+# 🎓 My Learning & Certifications
+I’m continuously improving my technical foundation through structured learning:
 
-### **Cybersecurity**
-- 🔒 *HarvardX — CS50: Computer Science for Cybersecurity* *(In progress)*  
+<p align="left">
 
-### **Programming & Analytics**
-- 🐍 *Udemy — 100 Days of Python*  
-- 📊 *Udemy — Data Analytics with Python & Jupyter Notebook*
+  <!-- Harvard Cybersecurity -->
+  <img src="https://img.shields.io/badge/HarvardX%20CS50_Cybersecurity-8A100B?style=for-the-badge&logo=Harvard&logoColor=white" />
 
-### **Education**
-- 🎓 *MBA in IT Management — Expected August 2026*
+  <!-- Python Udemy -->
+  <img src="https://img.shields.io/badge/Python_Programming_(Udemy)-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
----
+  <!-- Data Analytics Udemy -->
+  <img src="https://img.shields.io/badge/Data_Analytics_with_Python_&_Jupyter-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white" />
 
-## 🔥 Current Focus Areas  
-- Building **cybersecurity portfolio projects**:  
-  - PCAP threat analysis  
-  - Python network detection scripts  
-  - Suspicious IP analysis  
-  - DNS tunneling / beaconing detection  
-- Developing **automated log/packet analysis tools**  
-- Strengthening cloud monitoring (Azure Monitor, API logging)  
-- Combining **MBA strategic frameworks** with cybersecurity practice
+  <!-- MBA IT Management -->
+  <img src="https://img.shields.io/badge/MBA_in_IT_Management_(2026)-0A0A0A?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+</p>
+These programs help me balance both the **technical** and **strategic** sides of modern IT and cybersecurity.
 
 ---
 
-## 🧪 Cybersecurity Projects (More Coming Soon)
-- **Network Packet Analysis (Wireshark)**  
-  Deep-dive investigations on phishing traffic, brute force attempts, and malware beaconing.  
-  Includes filters: `http.authbasic`, `tcp.flags.syn==1`, `dns.qry.name`, `ip.addr == 198.51.100.10`.
-
-- **Python Security Automation**  
-  Scripts for packet extraction, anomaly detection, and basic threat scoring.
-
-- **DNS Tunneling Detection Demo**  
-  Analysing abnormal DNS query patterns using Python + Wireshark.
+## 🔥 What I’m Working On
+- Hands-on **cybersecurity projects** (packet analysis, threat detection, Python automation)  
+- Building a complete **cybersecurity portfolio** on GitHub  
+- Combining security skills with business thinking from the MBA program  
+- Preparing for future opportunities in cybersecurity, cloud, and IT security management  
 
 ---
 
-## 🤝 Looking to Collaborate On
-- Cybersecurity lab simulations  
-- Packet-based threat analysis  
-- Python for security automation  
-- Cloud monitoring & SOC-aligned workflows  
+## 🤝 I’d Love to Connect With People Who…
+- Enjoy cybersecurity and problem-solving  
+- Work in cloud, security operations, or IT governance  
+- Build tools, investigate threats, or automate workflows  
+- Believe in continuous learning and growth  
+
 
 ---
 
