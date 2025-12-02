@@ -32,7 +32,7 @@ I like solving problems, breaking things down logically, and creating practical 
 ## 🎓 Certifications (Completed & In Progress)
 
 ### **Cybersecurity**
-- 🔒 *HarvardX — CS50: Computer Science for Cybersecurity* *(In progress / Planned)*  
+- 🔒 *HarvardX — CS50: Computer Science for Cybersecurity* *(In progress)*  
 
 ### **Programming & Analytics**
 - 🐍 *Udemy — 100 Days of Python*  
